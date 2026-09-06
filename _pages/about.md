@@ -7,36 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at the **Hong Kong University of Science and Technology (HKUST)**, where I am a member of the **HKUST NLP Group** advised by [Prof. Junxian He](https://junxianhe.com/). I received my B.Eng. from **Shanghai Jiao Tong University (SJTU)** in June 2024, where I was also advised by Prof. He.
+I am a first-year Ph.D. candidate in Computer Science at the **Hong Kong University of Science and Technology (HKUST)** and a member of the **HKUST NLP Group**, advised by **Prof. Junxian He**. I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024, where Prof. He also advised me during my undergraduate studies.
 
-My research lies at the intersection of **natural language processing** and **machine learning**. I am particularly interested in:
+My research focuses on **natural language processing** and **machine learning**. My research interests include:
 
-- LLM reasoning and reinforcement learning;
-- hallucination and perception bottlenecks in vision-language models;
-- LLM truthfulness and interpretability.
+- LLM reasoning and reinforcement learning
+- Hallucination in vision-language models
+- LLM truthfulness and interpretability
 
-## News and selected work
+## Publications
 
-- **2025:** First-authored *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*.
-- **2025:** First-authored *On the Perception Bottleneck of VLMs for Chart Understanding*.
-- **2024:** First-authored *On the Universal Truthfulness Hyperplane Inside LLMs*, published at EMNLP 2024.
-- **2024:** Co-authored *In-Context Sharpness as Alerts*, published at ICML 2024.
-- **2023:** Co-authored two papers published at NeurIPS 2023: *C-Eval* and *Composing Parameter-Efficient Modules with Arithmetic Operations*.
+- **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. arXiv, 2025.
+- **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. *On the Perception Bottleneck of VLMs for Chart Understanding*. arXiv, 2025.
+- **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He. *On the Universal Truthfulness Hyperplane Inside LLMs*. EMNLP 2024.
+- Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He. *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation*. ICML 2024.
+- Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. *C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models*. NeurIPS 2023.
+- Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He. *Composing Parameter-Efficient Modules with Arithmetic Operations*. NeurIPS 2023.
 
 ## Research experience
 
 - **Research Intern, MINIMAX** — February 2025–present
-- **Research Intern, Tencent WXG** — June 2024–September 2024; advised by Zifei Shan
-- **Research Intern, Shanghai AI Lab** — June 2023–December 2023; advised by Prof. Yu Cheng
+- **Research Intern, Tencent WXG** — June 2024–September 2024; advisor: Zifei Shan
+- **Research Intern, Shanghai AI Lab** — June 2023–December 2023; advisor: Prof. Yu Cheng
 
 ## Education
 
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–present
 - **B.Eng.**, Shanghai Jiao Tong University, 2020–2024
 
-## Skills and expertise
+## Skills
 
-Natural language processing; machine learning; large language model reasoning; reinforcement learning; vision-language model evaluation; hallucination mitigation; representation analysis; model truthfulness and interpretability.
+- Natural language processing
+- Machine learning
+- LLM reasoning and reinforcement learning
+- Hallucination in vision-language models
+- LLM truthfulness and interpretability
 
 ## Honors
 
