@@ -1,64 +1,61 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Junteng Liu
+
+Ph.D. Candidate, HKUST NLP Group  
+Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk) · [GitHub](https://github.com/Vicent0205) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) · [X](https://twitter.com/junteng88716710)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–present
+  - Member of the HKUST NLP Group
+  - Advisor: Prof. Junxian He
+- **B.Eng.**, Shanghai Jiao Tong University, 2020–2024
+  - Graduated June 2024
+  - Undergraduate advisor: Prof. Junxian He
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Research Intern, MINIMAX**, February 2025–present
+- **Research Intern, Tencent WXG**, June 2024–September 2024
+  - Advisor: Zifei Shan
+- **Research Intern, Shanghai AI Lab**, June 2023–December 2023
+  - Advisor: Prof. Yu Cheng
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+- LLM reasoning and reinforcement learning
+- Hallucination and perception in vision-language models
+- LLM truthfulness and interpretability
+- Natural language processing and machine learning
+
+Skills and Expertise
+======
+
+- Natural language processing and machine learning research
+- Large language model reasoning and reinforcement learning
+- Vision-language model evaluation and chart understanding
+- Hallucination analysis and mitigation
+- Internal representation analysis, truthfulness, and interpretability
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
